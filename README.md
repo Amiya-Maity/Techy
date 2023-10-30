@@ -1,2 +1,2 @@
 # Techy
-All technical PPT class PPT notes
+All technical PPT class onenote notes (best for microsoft users)
